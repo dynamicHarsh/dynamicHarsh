@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+Sonkar....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+Sonkar..;Nice+to+meet+you!&center=true&size=30">
   </a>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
