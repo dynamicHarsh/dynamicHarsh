@@ -69,7 +69,7 @@
     <tr>
       <td>
         <h3>SSDC Recruitment</h3>
-        <p>223+ students registered through this page. <a href="https://github.com/dynamicHarsh/bookMySlot" target="_blank">more</a></p>
+        <p>223+ students registered through this page. <a href="https://github.com/dynamicHarsh/Recruitment-24" target="_blank">more</a></p>
         <img src="https://skillicons.dev/icons?i=firebase,react,materialui" />
       </td>
       <td><img src="https://github.com/dynamicHarsh/dynamicHarsh/assets/104693483/b8ec2dce-78d2-4c9d-9175-36c7addf23fb" width="500px" /></td>
