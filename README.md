@@ -16,7 +16,7 @@
 
 - 👨🏽‍💻 I’m currently working on [promptVerse](https://github.com/dynamicHarsh/promptVerse);
 - 🌱 I’m currently learning NextJS and CI/CD; 
-- 👯 I’m looking to collaborate on [bookMySlot](https://github.com/dynamicHarsh/bookMySlot); 🤝;
+- 👯 I’m looking to collaborate on [bookMySlot](https://github.com/dynamicHarsh/bookMySlot);🤝
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am also a competitive coder;
 - 📫 How to reach me: beingsonkar@gmail.com;
