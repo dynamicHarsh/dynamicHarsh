@@ -68,6 +68,17 @@
     </tr>
     <tr>
       <td>
+        <h3>CodeRave</h3>
+        <p>Live Hackathon Website<a href="https://github.com/dynamicHarsh/coderave" target="_blank">more</a>
+</p>
+        <img src="https://skillicons.dev/icons?i=js,html,css,sass" />
+      </td>
+      <td><img src="https://github.com/dynamicHarsh/dynamicHarsh/assets/104693483/01c2a707-2989-48ac-9fb3-3be9a3b0572d"/></td>
+      <td><a href="https://coderave.in/" target="_blank">coderave.in</a></td>
+    </tr>
+    <tr>
+    <tr>
+      <td>
         <h3>SSDC Recruitment</h3>
         <p>223+ students registered through this page. <a href="https://github.com/dynamicHarsh/Recruitment-24" target="_blank">more</a></p>
         <img src="https://skillicons.dev/icons?i=firebase,react,materialui" />
