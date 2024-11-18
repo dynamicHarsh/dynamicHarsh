@@ -73,7 +73,7 @@
         <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,firebase" />
       </td>
       <td><img src="https://github.com/dynamicHarsh/dynamicHarsh/assets/104693483/1f571190-4857-4ee7-a7bc-f093964278a3" width="500px" /></td>
-      <td><a href="https://gentle-frog-gabardine.cyclic.cloud/" target="_blank">bookMySlot.cyclic.cloud</a></td>
+      <td><a href="https://bookmyslot.vercel.app/" target="_blank">bookmyslot.vercel.app</a></td>
     </tr>
     <tr>
       <td>
