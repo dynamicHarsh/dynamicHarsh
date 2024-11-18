@@ -48,6 +48,15 @@
 <table>
   <tbody>
     <tr>
+       <td>
+        <h3>AMS</h3>
+        <p>An AI- powered Attendance Management System. <a href="https://github.com/dynamicHarsh/AMS" target="_blank">more</a></p>
+        <img src="https://skillicons.dev/icons?i=next,tailwind,postgresql" />
+      </td>
+      <td><img src="https://github.com/user-attachments/assets/d8b2a9e2-ad26-4bad-a3a7-8bec671ae23b" width="500px" /></td>
+      <td><a href="https://ams-production-1d1b.up.railway.app/auth/login" target="_blank">ams-production</a></td>
+    </tr>
+    <tr>
       <td>
         <h3>promptVerse</h3>
         <p>A GPT prompt store for users to discover and share AI generated prompts.<a href="https://github.com/dynamicHarsh/promptVerse" target="_blank">more</a>
