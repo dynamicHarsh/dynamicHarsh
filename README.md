@@ -54,7 +54,7 @@
         <img src="https://skillicons.dev/icons?i=next,tailwind,postgresql" />
       </td>
       <td><img src="https://github.com/user-attachments/assets/d8b2a9e2-ad26-4bad-a3a7-8bec671ae23b" width="500px" /></td>
-      <td><a href="https://ams-production-1d1b.up.railway.app/auth/login" target="_blank">ams-production</a></td>
+      <td><a href="https://smart-attend-production.up.railway.app/auth/login" target="_blank">ams-production</a></td>
     </tr>
     <tr>
       <td>
